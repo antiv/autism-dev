@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "ea612f976faebe130ec667b0536e96b5",
+const RESOURCES = {"flutter_bootstrap.js": "4922cef7d6faaee03b567b39eaec2f0e",
 "version.json": "f6d7ed72ff85c44f69fff629faf2b689",
 "index.html": "45e8700f84d68b4b1d010e72d9c65f93",
 "/": "45e8700f84d68b4b1d010e72d9c65f93",
-"main.dart.js": "676ab35ae61953fe6703bb9243f1d2f5",
+"main.dart.js": "5539eff00d8370f0349d6d5175813921",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "b513084c63a7e0a2f68b3478fd0aa5b6",
 "icons/Icon-192.png": "37542ac0deff3823771d4aeb719cda81",
@@ -50,7 +50,7 @@ const RESOURCES = {"flutter_bootstrap.js": "ea612f976faebe130ec667b0536e96b5",
 "assets/assets/fonts/ChalkboardSE-Bold-03_0.ttf": "9ad9af29ece787cbb8201069960f43ac",
 "assets/assets/fonts/ChalkboardSE-Regular-02_0.ttf": "654c8fa62d08c89490681b66c8ae944c",
 "assets/assets/translations/de-DE.json": "ba12042a090fd836934aded34b26ca96",
-"assets/assets/translations/en-US.json": "430e82ecf786d293c99dc936fe964313",
+"assets/assets/translations/en-US.json": "a38d5c8b406de24725b642c9a2e23ac4",
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
 "canvaskit/canvaskit.js.symbols": "48c83a2ce573d9692e8d970e288d75f7",
