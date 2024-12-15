@@ -150,5 +150,20 @@
   "Log out": "Log out",
   "Other caregivers": "Other caregivers",
   "Calendar task color": "Calendar task color",
-  "Add caregiver": "Add caregiver"
+  "Add caregiver": "Add caregiver",
+  "Switch to caregiver mode": "Switch to caregiver mode",
+  "Pin": "Pin",
+  "Enter your pin": "Enter your pin",
+  "Submit": "Submit",
+  "Old pin": "Old pin",
+  "Old pin is required": "Old pin is required",
+  "Old pin is incorrect": "Old pin is incorrect",
+  "New pin": "New pin",
+  "New pin is required": "New pin is required",
+  "New pin cannot be the same as the old pin": "New pin cannot be the same as the old pin",
+  "Confirm new pin": "Confirm new pin",
+  "Confirm new pin is required": "Confirm new pin is required",
+  "New pin does not match": "New pin does not match",
+  "Change pin": "Change pin",
+  "Pin must be at least 4 characters": "Pin must be at least 4 characters"
 }

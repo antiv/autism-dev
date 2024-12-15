@@ -148,5 +148,22 @@
   "Calendar": "Kalender",
   "Add task": "Aufgabe hinzufügen",
   "Log out": "Ausloggen",
-  "Other caregivers": "Andere Betreuer"
+  "Other caregivers": "Andere Betreuer",
+  "Calendar task color": "Kalenderaufgabenfarbe",
+  "Add caregiver": "Betreuer hinzufügen",
+  "Switch to caregiver mode": "Zum Betreuermodus wechseln",
+  "Pin": "Pin",
+  "Enter your pin": "Geben Sie Ihren Pin ein",
+  "Submit": "Einreichen",
+  "Old pin": "Alter Pin",
+  "Old pin is required": "Alter Pin ist erforderlich",
+  "Old pin is incorrect": "Alter Pin ist falsch",
+  "New pin": "Neuer Pin",
+  "New pin is required": "Neuer Pin ist erforderlich",
+  "New pin cannot be the same as the old pin": "Neuer Pin darf nicht derselbe wie der alte Pin sein",
+  "Confirm new pin": "Neuen Pin bestätigen",
+  "Confirm new pin is required": "Neuen Pin bestätigen ist erforderlich",
+  "New pin does not match": "Neuer Pin stimmt nicht überein",
+  "Change pin": "Pin ändern",
+  "Pin must be at least 4 characters": "Pin muss mindestens 4 Zeichen lang sein"
 }
