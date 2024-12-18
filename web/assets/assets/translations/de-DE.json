@@ -165,5 +165,6 @@
   "Confirm new pin is required": "Neuen Pin bestätigen ist erforderlich",
   "New pin does not match": "Neuer Pin stimmt nicht überein",
   "Change pin": "Pin ändern",
-  "Pin must be at least 4 characters": "Pin muss mindestens 4 Zeichen lang sein"
+  "Pin must be at least 4 characters": "Pin muss mindestens 4 Zeichen lang sein",
+  "Change your pin": "Ändern Sie Ihren Pin"
 }
