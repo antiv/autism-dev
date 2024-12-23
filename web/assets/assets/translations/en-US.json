@@ -166,5 +166,15 @@
   "New pin does not match": "New pin does not match",
   "Change pin": "Change pin",
   "Pin must be at least 4 characters": "Pin must be at least 4 characters",
-  "Change your pin": "Change your pin"
+  "Change your pin": "Change your pin",
+  "Your pin is the same as default pin (1234). Please change it!": "Your pin is the same as default pin (1234).\nPlease change it!",
+  "Delete user": "Delete user",
+  "Are you sure you want to delete this user?": "Are you sure you want to delete this user?",
+  "All your patient will be removed too.": "All your patient will be removed too.",
+  "error.duplicate": "Duplicate key value",
+  "error.foreign_key": "Violates foreign key constraint",
+  "error.check_constraint": "Violates check constraint",
+  "error.formatException": "Format exception",
+  "error.unknown": "Unknown error",
+  "Please select date range": "Please select date range"
 }
